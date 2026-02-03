@@ -1,4 +1,4 @@
-```markdown
+markdown
 # 🤖 Bot de Whitelist / Gerenciamento Discord
 
 Este projeto é um **bot para Discord** em Node.js que gerencia **whitelist, staff, tickets e logs** de forma automática.
